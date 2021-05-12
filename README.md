@@ -1,2 +1,2 @@
 # LeoPortfolio
-Diretório voltado para o desenvolvimento de um Portifólio.
+Repositório voltado para o desenvolvimento de um Portifólio.
